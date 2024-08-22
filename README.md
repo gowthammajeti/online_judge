@@ -1,3 +1,3 @@
 # online_judge
 
-Hello Team
+Hello
